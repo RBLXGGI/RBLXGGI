@@ -19,6 +19,7 @@ The following is a list of usable tags. Submit an issue to suggest more.
 - Rhythm
 - Tabletop
 - Arcade
+- Minigames
 
 ## Subgenres
 ### RPG
@@ -44,6 +45,8 @@ The following is a list of usable tags. Submit an issue to suggest more.
 ### Survival
 - Resource Management
 - Open World Survival Craft
+- Nextbots
+- Disasters
 ### Strategy
 - RTS
 - TBS
