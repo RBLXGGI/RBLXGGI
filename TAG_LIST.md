@@ -20,6 +20,8 @@ The following is a list of usable tags. Submit an issue to suggest more.
 - Tabletop
 - Arcade
 - Minigames
+- Sandbox
+- Racing
 
 ## Subgenres
 ### RPG
