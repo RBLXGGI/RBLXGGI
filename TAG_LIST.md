@@ -112,3 +112,6 @@ The following is a list of usable tags. Submit an issue to suggest more.
 - Ages 9+
 - Ages 13+
 - Ages 17+
+
+# Clones
+- (name of game) Clone
