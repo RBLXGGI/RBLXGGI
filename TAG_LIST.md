@@ -120,3 +120,5 @@ The following is a list of usable tags. Submit an issue to suggest more.
 
 # Clones
 - (name of game) Clone
+- Restoration
+- Remake
