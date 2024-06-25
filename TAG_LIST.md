@@ -72,7 +72,7 @@ The following is a list of usable tags. Submit an issue to suggest more.
 - PC
 - Mobile
 - VR
-- Xbox
+- Console
 
 # Game State
 - Alpha
