@@ -9,6 +9,18 @@
 	"monelevel":    1,
 	"private":      3,
 	"privateprice": 0
-	"tags": ["Platformer", "3D Platformer", "Collectathon", "Practically Singleplayer", "PC", "Xbox", "Working", "Alpha", "WIP", "2021", "Exploration", "Comedic", "Colorful", "Cartoon", "Ages 9+"]
+	"tags": ["Platformer", "3D Platformer", "Collectathon", "Practically Singleplayer", "PC", "Console", "Working", "Alpha", "WIP", "2021", "Exploration", "Comedic", "Colorful", "Cartoon", "Ages 9+"]
+	},
+	{
+	"name":         "Block Tales (Demo 1)",
+	"id":           16483433878,
+	"thumb":        "https://tr.rbxcdn.com/1123179af6b7e51b3533bddb37f463da/420/420/Image/Webp",
+	"desc":         "",
+	"author":       "Spaceman Moonbase",
+	"price":        0,
+	"monelevel":    0,
+	"private":      0,
+	"privateprice": 0
+	"tags": ["RPG", "Turn-Based RPG", "Multiplayer", "Co-Op", "PC", "Mobile", "Console", "WIP", "Working", "2024", "Side Scroller", "Comedic", "Classic Roblox Aesthetic", "All Ages"]
 	}
 ]}
