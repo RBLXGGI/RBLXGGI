@@ -1,0 +1,414 @@
+{
+	"tags": {
+		"Genre": [
+			{
+				"name": "RPG",
+				"desc": "Role-playing games let you assume the role of a protagonist, customizing their abilities, equipment, and appearances. Through exploration, dialogue, and strategic combat, players navigate worlds, uncover lore, complete missions, and level up their characters."
+			},
+			{
+				"name": "Shooter",
+				"desc": "Games in which the player shoots things to progress, usually with a variety of guns, and other times with bows and arrows."
+			},
+			{
+				"name": "Sports",
+				"desc": "Games that simulate sports"
+			},
+			{
+				"name": "Action",
+				"desc": "Featuring fast-paced gameplay, combat mechanics, and challenges that test reflexes and coordination. Often involving physical confrontations, weapon usage, and strategic maneuvers to overcome opponents or obstacles."
+			},
+			{
+				"name": "Incremental",
+				"desc": "A game that has some of or all of the mechanics: Limited interaction or the ability to be played without interaction, rapid growth - often exponential, prestige mechanic(s), An end goal/mission or a general goal of getting a higher amount of currency, and a system of buying and upgrading buildings, units, or similar."
+			},
+			{
+				"name": "Simulation",
+				"desc": "Games that try to simulate real-world activities (like driving vehicles or living the life of someone else) with as much realism as possible. Simulators generally require more study and orientation than arcade games, and the best simulators are also educational."
+			},
+			{
+				"name": "Roguelike",
+				"desc": "Near infinitely replayable games that usually feature, random generation, perma-death, and brutal difficulty."
+			},
+			{
+				"name": "Platformer",
+				"desc": "When jumping over obstacles is one of the main actions, challenges, or mechanics of the game."
+			},
+			{
+				"name": "Puzzle",
+				"desc": "Games that challenge the player with critical thinking to solve levels."
+			},
+			{
+				"name": "Survival",
+				"desc": "Games where the primary goal is keeping the player character alive under harsh circumstances such as dwindling resources or a hostile environment."
+			},
+			{
+				"name": "Strategy",
+				"desc": "Focusing on tactical decision-making, resource management, and long-term planning to achieve victory. Often involving elements like building, defending, and conquering within a structured set of rules and objectives."
+			},
+			{
+				"name": "Rhythm",
+				"desc": "Games that challenges the player's sense of rhythm."
+			},
+			{
+				"name": "Tabletop",
+				"desc": "Games that are normally played on a table or other flat surface, such as board games, card games, dice games, miniature wargames, or tile-based games."
+			},
+			{
+				"name": "Arcade",
+				"desc": "Simple, fast-paced games that require few or no explanations, can be played in short bursts, and usually require a lot of skill."
+			},
+			{
+				"name": "Sandbox",
+				"desc": "A game in which the player is not constrained to achieving specific goals and has a large degree of freedom to explore, interact with, or modify the game environment."
+			}
+		],
+		"Subgenres/RPG": [
+			{
+				"name": "Classic RPG",
+				"desc": "Classic Roblox RPG"
+			},
+			{
+				"name": "Turn-Based RPG",
+				"desc": "RPG that is turn-based"
+			},
+			{
+				"name": "Action RPG",
+				"desc": "RPG with real-time action"
+			}
+		],
+		"Multiplayer": [
+			{
+				"name": "Singleplayer",
+				"desc": "The game is pure single player. Server sizes are limited to one player."
+			},
+			{
+				"name": "Practically Singleplayer",
+				"desc": "The gameplay has no interaction with other players yet the server size is more than 1."
+			},
+			{
+				"name": "Multiplayer",
+				"desc": "The gameplay has interactions between players."
+			},
+			{
+				"name": "PVP",
+				"desc": "Player vs. Player. Players compete with each other."
+			},
+			{
+				"name": "PVE",
+				"desc": "Player vs. Environment. Players are against a non-player enemy."
+			},
+			{
+				"name": "Voice Chat",
+				"desc": "The server features voice chat."
+			}
+		],
+		"Subgenres/Action": [
+			{
+				"name": "MOBA",
+				"desc": "(Multiplayer Online Battle Arena) two teams of players compete against each other on a predefined battlefield."
+			}
+		],
+		"Subgenres/Incremental": [
+			{
+				"name": "Tycoon",
+				"desc": "Games where the player runs a business with the goal of making as much money as possible."
+			},
+			{
+				"name": "Classic Tycoon",
+				"desc": "Games where users get to own a base, usually a business or a company of some kind, and must use “droppers” to earn cash, which can be spent on upgrades to expand the tycoon."
+			},
+			{
+				"name": "Clicker",
+				"desc": "A style of game where the player must click on something to earn points, which they spend on upgrades to increase the number of points they earn per click, or to increase the number of points they earn over a period of time without clicking."
+			},
+			{
+				"name": "Simulator",
+				"desc": "Games that involve clicking, tapping, or holding repeatedly or going up to a certain object to obtain some type of in-game item to reach a maximum that a player can hold. The in-game item can then be converted into an in-game currency, which can be used to buy improved upgrades to either hold more items or to gain the in-game currency at a faster rate."
+			}
+		],
+		"Subgenres/Platformer": [
+			{
+				"name": "3D Platformer",
+				"desc": "A platformer in a 3D environment."
+			},
+			{
+				"name": "2D Platformer",
+				"desc": "A platformer in a 2D environment."
+			},
+			{
+				"name": "Precision Platformer",
+				"desc": "Platform games with an emphasis on being extremely precise with movements and being extremely challenging."
+			},
+			{
+				"name": "Collectathon",
+				"desc": "Games that require you to find and collect items to progress. Each item often require players to complete some sort of challenge."
+			}
+		],
+		"Subgenres/Survival": [
+			{
+				"name": "Open World Survival Craft",
+				"desc": "A survival open world game with crafting."
+			},
+			{
+				"name": "Monsters",
+				"desc": "A game where players must survive a monster that is hunting for them."
+			},
+			{
+				"name": "Disasters",
+				"desc": "A game where players must carefully navigate around a map to survive a \"disaster.\""
+			}
+		],
+		"Subgenres/Strategy": [
+			{
+				"name": "RTS",
+				"desc": "A strategy game that is not turn-based."
+			},
+			{
+				"name": "TBS",
+				"desc": "A strategy game that is turn-based."
+			},
+			{
+				"name": "Tower Defense",
+				"desc": "A type of game where the player builds defensive structures to stop waves of enemies from reaching and destroying their base. Towers can be equipped with many kinds of weapons, but generally are unable to move. Resources earned by defeating enemies allow for more towers to be built."
+			}
+		],
+		"Subgenres/Tabletop": [
+			{
+				"name": "Card Game",
+				"desc": "Featuring gameplay centered around the strategic use of cards, these games often involve building decks, managing resources, and executing tactical decisions."
+			}
+		],
+		"Platforms": [
+			{
+				"name": "PC",
+				"desc": "This game is playable on PC. Honestly I don't think a single Roblox game isn't playable on PC, so this tag is pretty redundant."
+			},
+			{
+				"name": "Mobile",
+				"desc": "This game is playable on mobile devices."
+			},
+			{
+				"name": "VR",
+				"desc": "This game is playable in virtual reality."
+			},
+			{
+				"name": "Console",
+				"desc": "This game is playable on game consoles such as Xbox."
+			}
+		],
+		"Game State": [
+			{
+				"name": "Alpha",
+				"desc": "The game is very early in development. Can have many unfinished aspects."
+			},
+			{
+				"name": "Beta",
+				"desc": "This game is early in development but is generally closer to its end product than not. Often simply testing balancing."
+			},
+			{
+				"name": "WIP",
+				"desc": "This game is not considered finished. Does not include Live Service games."
+			},
+			{
+				"name": "Abandoned",
+				"desc": "This game has ceased development before it could be finished OR is a Live Service game that has stopped receiving updates."
+			},
+			{
+				"name": "Working",
+				"desc": "This game, no matter when it last has received updates, functions as intended."
+			},
+			{
+				"name": "Broken",
+				"desc": "This game does not function as intended."
+			},
+			{
+				"name": "Finished",
+				"desc": "This game is considered finished and now only receives minimal updates or changes."
+			},
+			{
+				"name": "Live Service",
+				"desc": "This game is built around updates. Updates usually change the game in a significant way."
+			}
+		],
+		"Year of Release": [
+			{
+				"name": "2006",
+				"desc": "The game was released in 2006."
+			},
+			{
+				"name": "2007",
+				"desc": "The game was released in 2007."
+			},
+			{
+				"name": "2008",
+				"desc": "The game was released in 2008."
+			},
+			{
+				"name": "2009",
+				"desc": "The game was released in 2009."
+			},
+			{
+				"name": "2010",
+				"desc": "The game was released in 2010."
+			},
+			{
+				"name": "2011",
+				"desc": "The game was released in 2011."
+			},
+			{
+				"name": "2012",
+				"desc": "The game was released in 2012."
+			},
+			{
+				"name": "2013",
+				"desc": "The game was released in 2013."
+			},
+			{
+				"name": "2014",
+				"desc": "The game was released in 2014."
+			},
+			{
+				"name": "2015",
+				"desc": "The game was released in 2015."
+			},
+			{
+				"name": "2016",
+				"desc": "The game was released in 2016."
+			},
+			{
+				"name": "2017",
+				"desc": "The game was released in 2017."
+			},
+			{
+				"name": "2018",
+				"desc": "The game was released in 2018."
+			},
+			{
+				"name": "2019",
+				"desc": "The game was released in 2019."
+			},
+			{
+				"name": "2020",
+				"desc": "The game was released in 2020."
+			},
+			{
+				"name": "2021",
+				"desc": "The game was released in 2021."
+			},
+			{
+				"name": "2022",
+				"desc": "The game was released in 2022."
+			},
+			{
+				"name": "2023",
+				"desc": "The game was released in 2023."
+			},
+			{
+				"name": "2024",
+				"desc": "The game was released in 2024."
+			}
+		],
+		"Perspective": [
+			{
+				"name": "First Person",
+				"desc": "The game is exclusively played from the point-of-view of the player."
+			},
+			{
+				"name": "Third Person",
+				"desc": "The game is exclusively played from a point-of-view over the player's head."
+			},
+			{
+				"name": "Top-Down",
+				"desc": "The game is exclusively played from a bird's eye / Top-Down perspective."
+			},
+			{
+				"name": "Side Scroller",
+				"desc": "The perspective is always perfectly level and can only move in 2D directions."
+			},
+			{
+				"name": "Isometric",
+				"desc": "The camera is in a fixed, isometric position."
+			}
+		],
+		"Themes": [
+			{
+				"name": "Horror",
+				"desc": "Games that aim to startle and unnerve the player."
+			},
+			{
+				"name": "Anime",
+				"desc": "Games that feature aspects of Anime."
+			},
+			{
+				"name": "Exploration",
+				"desc": "Games where you discover new locations by traveling around in the game's environment."
+			},
+			{
+				"name": "Narrative",
+				"desc": "Story based experiences."
+			},
+			{
+				"name": "Comedic",
+				"desc": "Games that attempt to make the player laugh."
+			},
+			{
+				"name": "Mystery",
+				"desc": "Games that contain a mystery to solve."
+			},
+			{
+				"name": "Meme",
+				"desc": "Games that are centered around memes."
+			}
+		],
+		"Aesthetic": [
+			{
+				"name": "Pixel",
+				"desc": "Games that have pixelated, 8-bit, 16-bit, low-res, etc visuals"
+			},
+			{
+				"name": "Low-Poly",
+				"desc": "Games with models that have low polygon counts."
+			},
+			{
+				"name": "Colorful",
+				"desc": "Games that are colorful and not monochromatic."
+			},
+			{
+				"name": "Cartoon",
+				"desc": "Games with goofy cartoonish visuals."
+			},
+			{
+				"name": "Classic Roblox Aesthetic",
+				"desc": "Games that purposefully recreate the look and tone of Classic-era Roblox games."
+			},
+			{
+				"name": "Cute",
+				"desc": "Games that are cute and make you go awwww."
+			}
+		],
+		"Age Rating": [
+			{
+				"name": "All Ages",
+				"desc": "Rated All Ages on Roblox."
+			},
+			{
+				"name": "Ages 9+",
+				"desc": "Rated Ages 9+ on Roblox."
+			},
+			{
+				"name": "Ages 13+",
+				"desc": "Rated Ages 13+ on Roblox."
+			},
+			{
+				"name": "Ages 17+",
+				"desc": "Rated Ages 17+ on Roblox."
+			}
+		],
+		"Clones": [
+			{
+				"name": "Restoration",
+				"desc": "This game is a restoration of a game that is either no longer available on Roblox OR is completely broken and left abandoned."
+			}
+		]
+	}
+}
